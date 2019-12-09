@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.tfs.ilabs</groupId>
-    <version>2019.4-SNAPSHOT</version>
+    <groupId>com.github.247-ai</groupId>
+    <version>1.0</version>
     <artifactId>Flashml-Log-Server</artifactId>
     <packaging>jar</packaging>
 
